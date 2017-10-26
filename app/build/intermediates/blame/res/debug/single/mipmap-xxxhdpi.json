@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kalpesh.rothe\\Downloads\\HelloARMultiTarget_SingleTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kalpesh.rothe\\Downloads\\HelloARMultiTarget_SingleTracker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kalpesh.rothe\\Downloads\\ARImageTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kalpesh.rothe\\Downloads\\ARImageTracker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
